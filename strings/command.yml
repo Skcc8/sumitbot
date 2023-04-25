@@ -9,7 +9,7 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "fuck", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAY_COMMAND : ["play", "fuck", "vsdsplay", "cddplay", "cvdeewplay", "playforce", "vpladwyforce", "cpldwayforce", "cvpdwlayforce"]
 PLAYMODE_COMMAND : ["playmode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
@@ -20,8 +20,8 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist"]
 
 
 # Tools
-QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying"]
-SONG_COMMAND : ["song", "video", "vsong"]
+QUEUE_COMMAND : ["queue","cqueue", "player", "cdwplayer", "playing", "cplaying"]
+SONG_COMMAND : ["song", "dwvideo", "vsong"]
 LYRICS_COMMAND : ["lyrics"]
 
 
